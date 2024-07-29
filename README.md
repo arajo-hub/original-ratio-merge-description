@@ -1,4 +1,4 @@
-### 원본비율 합치기
+# 원본비율 합치기
 
 ## 원본비율 합치기는 어떤 앱인가요?
 - 최대 5개의 이미지를 원본 비율 그대로 하나의 이미지로 만들 수 있는 앱입니다.
@@ -14,3 +14,22 @@
 
 ## 궁금한 사항을 어디로 문의하면 되나요?
 - joara9566@naver.com 으로 메일 보내주시면 확인 후 개발자가 답장을 드립니다.
+
+---
+
+# Original Ratio Merge
+
+## What is Original Ratio Merge?
+- Original Ratio Merge is an app that allows you to combine up to 5 images into a single image while maintaining their original aspect ratios.
+
+## Is it free?
+- Yes, it is free.
+
+## It takes a long time to merge images.
+- The higher the quality of the images and the more images you have, the longer it will take. Reducing the number of images processed at once or using lower quality images will reduce the processing time.
+
+## Are there plans to support other platforms?
+- Currently, we primarily support iOS.
+
+## Where can I ask questions?
+- If you have any questions, please send an email to joara9566@naver.com, and the developer will respond after reviewing it.
